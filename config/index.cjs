@@ -7,12 +7,8 @@
  */
 const USER_CONFIG = {
 
-  // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx81c19c1c4fe5e82d',
-
-  // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '549ab0f0adbc5fbabda7aad18a336492',
-
+  // 请将以下代码按照图示粘贴到对应位置
+USE_PASSAGE: 'push-deer',
   PROVINCE: '广东',
   CITY: '广州',
 
@@ -21,7 +17,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '孙小奇的大宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU18086T2rHPKNXHbWg4WHB8AsnB4TR198LjDSSY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
