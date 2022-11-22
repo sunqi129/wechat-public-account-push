@@ -17,7 +17,7 @@ USE_PASSAGE: 'push-deer',
       // 想要发送的人的名字
       name: '孙小奇的大宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'PDU18086T2rHPKNXHbWg4WHB8AsnB4TR198LjDSSY','PDU18090T033H07jLS6lvk7CbthaxnFP8EwTeLD7a'
+      id: 'PDU18090T033H07jLS6lvk7CbthaxnFP8EwTeLD7a',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
